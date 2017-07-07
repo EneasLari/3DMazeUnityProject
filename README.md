@@ -7,7 +7,7 @@ A simple 3D FPS maze game made in unity for a university project.You can destroy
 
 ![alt text](https://github.com/EneasLari/3DMazeUnityProject/blob/master/screenshots/destroyedcube.PNG)
 
-![alt text](https://github.com/EneasLari/3DMazeUnityProject/blob/master/screenshots/gameplay1.PNG)
+![alt text](https://github.com/EneasLari/3DMazeUnityProject/blob/master/screenshots/gampeplay1.PNG)
 
 ![alt text](https://github.com/EneasLari/3DMazeUnityProject/blob/master/screenshots/gameplay2.PNG)
 
