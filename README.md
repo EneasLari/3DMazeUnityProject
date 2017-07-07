@@ -9,7 +9,7 @@ Some Screenshots Images of the gameplay.
 
 ![alt text](https://github.com/EneasLari/3DMazeUnityProject/blob/master/screenshots/destroyedcube.PNG)
 
-![alt text](https://github.com/EneasLari/3DMazeUnityProject/blob/master/screenshots/gampeplay1.PNG)
+![alt text](https://github.com/EneasLari/3DMazeUnityProject/blob/master/screenshots/gameplay1.PNG)
 
 ![alt text](https://github.com/EneasLari/3DMazeUnityProject/blob/master/screenshots/gameplay2.PNG)
 
